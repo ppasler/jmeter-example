@@ -1,0 +1,6 @@
+apache-jmeter-*
+apache-jmeter/
+report-*
+current_report
+jmeter.log
+configparameters
